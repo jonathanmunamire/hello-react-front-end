@@ -93,7 +93,7 @@ This is the Link to the [Backend Repository](https://github.com/jonathanmunamire
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/jonathanmunamire/hello-react-front-end)
+Live Demo Coming Soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
